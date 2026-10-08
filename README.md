@@ -17,7 +17,7 @@
 **No escriba aquí cédulas, teléfonos ni correos.** Este repositorio se hace público el viernes 9 de octubre a las 12:00 m.
 
 ## ¿De qué trata? (máximo 5 líneas)
-skdjfklajflksadjflkasjdflksjdflkjsdlkjflksdjflksdjflkjsdlkfjlsdkjflksdjflksdjflksdjfkljsdfkljflkjsdlkfjsdlkjflksdjflksjdlfk
+Este cortometraje nace de la relación entre el fenómeno de El Niño y nuestras emociones. A través del sonido y el color, quisimos dejar de lado el uso de la tecnología para la producción perfecta, también causante de este tipo de fenómenos, recuperando  las voces y los pensamientos cotidianos, haciendo de la comunicación un encuentro con nosotros mismos. La intención es reflexionar sobre cómo reaccionamos cotidianamente ante los cambios climáticos y cómo, muchas veces, solo tomamos conciencia cuando sus efectos alteran nuestra vida. Sin embargo, reflexionar no es suficiente. En medio del caos informativo y la vida misma, buscamos dar a entender que no basta con señalar al fenómeno natural, sino que también debemos cuestionar nuestras acciones y nuestra responsabilidad frente a lo que sucede.
 
 ## Cómo ver o probar el producto
 
