@@ -8,15 +8,16 @@
 
 | Campo | Respuesta |
 |---|---|
-| Equipo | |
-| Zona / Centro(s) | |
+| Equipo | |TebaidaVerse UDR
+| Zona / Centro(s) | |Zona Occidente UDR La Tebaida
 | Tipo de producto (Tabla 1 del documento técnico) | |
-| Integrantes (solo nombres completos) | |
+| Integrantes (solo nombres completos) | |Diego Mauricio Zambrano Molano - Paula Andrea Castro Vanegas - Diego Fernando Parra Parra
 | Enlace al demo web (si aplica) | |
 
 **No escriba aquí cédulas, teléfonos ni correos.** Este repositorio se hace público el viernes 9 de octubre a las 12:00 m.
 
 ## ¿De qué trata? (máximo 5 líneas)
+skdjfklajflksadjflkasjdflksjdflkjsdlkjflksdjflksdjflkjsdlkfjlsdkjflksdjflksdjflksdjfkljsdfkljflkjsdlkfjsdlkjflksdjflksjdlfk
 
 ## Cómo ver o probar el producto
 
