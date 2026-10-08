@@ -10,7 +10,7 @@
 |---|---|
 | Equipo | TebaidaVerse UDR |
 | Zona / Centro(s) | Zona Occidente UDR La Tebaida |
-| Tipo de producto (Tabla 1 del documento técnico) | |
+| Tipo de producto (Tabla 1 del documento técnico) | Audiovisual/cortometraje |
 | Integrantes (solo nombres completos) | Diego Mauricio Zambrano Molano - Paula Andrea Castro Vanegas - Diego Fernando Parra Parra |
 | Enlace al demo web (si aplica) | |
 
