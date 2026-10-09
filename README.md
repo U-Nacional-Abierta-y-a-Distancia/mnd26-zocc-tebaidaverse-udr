@@ -2,7 +2,7 @@
   <img src="assets/encabezado.png" alt="UNAD, Universidad Nacional Abierta y a Distancia, y Segundas Olimpiadas Unadistas 2026" width="560">
 </p>
 
-# Nombre del proyecto
+# La Culpa no es del Niño
 
 > Maratón de Innovación en Narrativas Digitales · Segundas Olimpiadas Unadistas 2026 · Fase zonal
 
